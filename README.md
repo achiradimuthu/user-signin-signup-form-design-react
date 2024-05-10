@@ -1,8 +1,12 @@
-# React + Vite
+# User Signin & Signup
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://github.com/achiradimuthu/resources/blob/main/user-signin-signup-form-design-react/ss1.png" alt="user-login" />
 
-Currently, two official plugins are available:
+<img src="https://github.com/achiradimuthu/resources/blob/main/user-signin-signup-form-design-react/ss2.png" alt="user-registration" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Get this template and use this your developments</h2>
+
+<h2>Install below dependencies</h2>
+
+- npm install
+- npm install react-icons
